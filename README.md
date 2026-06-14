@@ -1,5 +1,4 @@
 
-[REDOME.md](https://github.com/user-attachments/files/28927685/REDOME.md)
 **1. アプリの概要**
 
 「PyLingo」は、プログラミング学習中の「わからない」をその場で解決するデスクトップ特化型のAIアシスタントです。
